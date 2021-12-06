@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/responsive-design-flexbox-css-NGY5kXZw2)
+- Live Site URL: [Click Here](https://hatwell-jonel.github.io/frontendmentor-statspreview/)
 
 ## My process
 
